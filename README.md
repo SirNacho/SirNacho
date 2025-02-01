@@ -1,5 +1,5 @@
 ## Yo!
-My name is SirNacho and I'm a software engineer currently pursuing my Bachelors in Computer Science with a concentration in software development.
+My name is SirNacho and I'm a software engineer currently pursuing my Bachelors in Computer Science with a concentration in software development at DePaul University.
 
 <!--
 **SirNacho/SirNacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
