@@ -1,7 +1,7 @@
 # Yo!
 My name is SirNacho and I'm a software developer currently pursuing my Bachelors in Computer Science with a concentration in software development at DePaul University.
 
-I'm currently learning about systems (specifically operating systems concepts) with C/C++ and machine learning with python/C++
+I'm currently learning about low level systems like operating systems and micro controllers with C/C++ and machine learning with python/C++
 
 <!--
 **SirNacho/SirNacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
