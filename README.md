@@ -1,7 +1,7 @@
 # Yo!
 My name is SirNacho and I'm a software developer currently pursuing my Bachelors in Computer Science with a concentration in software development at DePaul University.
 
-I'm currently learning about low level systems like operating systems and micro controllers with C/C++ and machine learning with python/C++
+I'm currently learning about systems (specifically operating systems concepts) with C/C++ and machine learning with python/C++
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dwicao&show_icons=true&cache=0)
 
