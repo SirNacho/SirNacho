@@ -3,6 +3,8 @@ My name is SirNacho and I'm a software developer currently pursuing my Bachelors
 
 I'm currently learning about low level systems like operating systems and micro controllers with C/C++ and machine learning with python/C++
 
+![github stats](https://github-readme-stats.vercel.app/api?username=dwicao&show_icons=true&cache=0)
+
 <!--
 **SirNacho/SirNacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
